@@ -6,7 +6,7 @@
 
 **Thoughts:** The aim of the project is to create a light display with 7 colored lights. I have started with a very basic HTML document with minimal styling and JavaScript. There was some trial and error with the javascript but I managed to figure it out after some time. The way I have coded the on off buttons in JavaScript may not be the best method of changing multiple elements but it at least works for now and I have learned a few new things. 
 
-```
+```JavaScript
 // TURN ON
 document.querySelectorAll('.circle').forEach(circle => {
     btnOff.addEventListener('click', () => {
