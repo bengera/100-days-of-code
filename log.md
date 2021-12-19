@@ -2,19 +2,16 @@
 
 ### Day 0: December 19, 2021 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Set up the basic files for a Christmas lights project. Styled the lights and added a functional on and off buttons to add and remove color from the lights. I added a forEach method to select each circle and change the colours of the lights to transparent. I copied and pasted this forEach method to remove the transparent styles using the removeAttribute method to reset the default colors of each circle. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** The aim of the project is to create a light display with 7 colored lights. I have started with a very basic HTML document with minimal styling and JavaScript. There was some trial and error with the javascript but I managed to figure it out after some time. The way I have coded the on off buttons in JavaScript may not be the best method of changing multiple elements but it at least works for now and I have learned a few new things. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link(s) to work:** [Calculator App](http://www.example.com)
+
+**Link(s) to resources:** 
+[forEach method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+[How to add an event listener to multiple elements in JavaScript](https://flaviocopes.com/how-to-add-event-listener-multiple-elements-javascript/)
+[Christmas Lights app-idea](https://github.com/fahamidur/app-ideas/blob/master/Projects/1-Beginner/Christmas-Lights-App.md)
 
 
-### Day 1: December 19, 2021 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
