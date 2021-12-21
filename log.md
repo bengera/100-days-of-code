@@ -62,14 +62,25 @@ document.querySelectorAll('.circle').forEach(circle => {
 ```
 **Link(s) to work:** [Christmas Lights](https://github.com/bengera/christmas-lights)
 
-<!-- **Link(s) to resources:** 
-\
-[forEach method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
-\
-[How to add an event listener to multiple elements in JavaScript](https://flaviocopes.com/how-to-add-event-listener-multiple-elements-javascript/)
-\
-[Christmas Lights app-idea](https://github.com/fahamidur/app-ideas/blob/master/Projects/1-Beginner/Christmas-Lights-App.md) -->
 
+### Day 3: December 21, 2021 
+
+**Today's Progress**: Went through some codewars challenges, managed to complete a very basic one with if else statements. 
+\ Learnt about how  ```split(' ')``` can divide a string into substrings, in this case each word could be separated. Without the gap it would be each letter.
+Also learnt some things about the ```reduce``` method but still not it is still not entirely clear to me how it works.
+Refreshed my memory of the ternary operator. ```condition ? exprIfTrue : exprIfFalse```
+
+**Thoughts:** I see how important it is to keep coding everyday, a lot of things I have read about or even coded myself can be forgotten very quickly and a lot of time
+is spent refreshing my memory on things I have already studied. 
+I may need to organise my day a bit better. I need to have a clear goal to work on and projects that I want to work on. There are many projects that I have started but not completed entirely.
+I need to make sure I see through each one.
+
+```JavaScript
+var age = 26;
+var beverage = (age >= 21) ? "Beer" : "Juice";
+console.log(beverage); // "Beer"
+
+```
 
 
 
