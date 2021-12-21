@@ -36,7 +36,7 @@ document.querySelectorAll('.circle').forEach(circle => {
 [Christmas Lights app-idea](https://github.com/fahamidur/app-ideas/blob/master/Projects/1-Beginner/Christmas-Lights-App.md)
 
 
-### Day 2: December 19, 2021 
+### Day 2: December 20, 2021 
 
 **Today's Progress**: Added pulsing animation to one of the Christmas lights and wrote some simple JS to turn it off.
 
