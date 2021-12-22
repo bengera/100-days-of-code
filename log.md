@@ -83,6 +83,16 @@ console.log(beverage); // "Beer"
 ```
 
 
+### Day 3: December 22, 2021 
+
+**Today's Progress**: Fixed some bugs on my portfolio. Added more aniamtion to Christmas Lights project. 
+
+**Thoughts:** I have struggled to work out of things in JavaScript by myself, I think now I may do some tutorials and then try to create something on my own after understanding how 
+certain things work. I feel like I'm stabbing in the dark most of time and making the wildest guesses. My portfolio is okay for hosting a few projects but I would like to remake it
+it a more attractive and interesting way. Tommorow I will do some tutorials and try to learn some new things. This worked very well when I was making my ESL site.
+
+
+
 
 
 
