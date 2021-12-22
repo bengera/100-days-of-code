@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: December 19, 2021 
+### Day 01: December 19, 2021 
 
 **Today's Progress**: Set up the basic files for a Christmas lights project. Styled the lights and added on and off buttons to add and remove color from the lights. I added a ```forEach``` method to select each circle and change the colors of the lights to transparent. I copied and pasted this forEach method to remove the transparent styles using the removeAttribute method to reset the default colors of each circle. 
 
@@ -36,7 +36,7 @@ document.querySelectorAll('.circle').forEach(circle => {
 [Christmas Lights app-idea](https://github.com/fahamidur/app-ideas/blob/master/Projects/1-Beginner/Christmas-Lights-App.md)
 
 
-### Day 2: December 20, 2021 
+### Day 02: December 20, 2021 
 
 **Today's Progress**: Added pulsing animation to one of the Christmas lights and wrote some simple JS to turn it off.
 
@@ -63,7 +63,7 @@ document.querySelectorAll('.circle').forEach(circle => {
 **Link(s) to work:** [Christmas Lights](https://github.com/bengera/christmas-lights)
 
 
-### Day 3: December 21, 2021 
+### Day 03: December 21, 2021 
 
 **Today's Progress**: Went through some codewars challenges, managed to complete a very basic one with if else statements. 
 \ Learnt about how  ```split(' ')``` can divide a string into substrings, in this case each word could be separated. Without the gap it would be each letter.
@@ -83,7 +83,7 @@ console.log(beverage); // "Beer"
 ```
 
 
-### Day 3: December 22, 2021 
+### Day 04: December 22, 2021 
 
 **Today's Progress**: Fixed some bugs on my portfolio. Added more aniamtion to Christmas Lights project. 
 
