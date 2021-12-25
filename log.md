@@ -92,6 +92,15 @@ certain things work. I feel like I'm stabbing in the dark most of time and makin
 it a more attractive and interesting way. Tommorow I will do some tutorials and try to learn some new things. This worked very well when I was making my ESL site.
 
 
+### Day 05: December 25, 2021 
+
+**Today's Progress**: Missed a couple of days for Christmas. To get back into things I started a new Front end mentor challenge. I created a small component card. It is close to finished.
+
+**Thoughts:** I really enjoy setting up new projects and doing HTML and CSS. It is good to practice and I always learn something new with each project. It may be a good idea
+to make a lot of little projects and build components or functions in isolation. When I'm more confident I can put all of these things into a bigger project.
+
+
+**Link(s) to work:** [Christmas Lights](https://github.com/bengera/nft-card)
 
 
 
