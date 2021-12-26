@@ -103,6 +103,16 @@ to make a lot of little projects and build components or functions in isolation.
 **Link(s) to work:** [NFT-Card](https://github.com/bengera/nft-card)
 
 
+### Day 06: December 26, 2021 
+
+**Today's Progress**: Finished nft-card. 
+
+**Thoughts:** Very fun to make and learnt a little about overlaying images as a hover effect.
+
+
+**Link(s) to work:** [NFT-Card](https://github.com/bengera/nft-card)
+
+
 
 
 
