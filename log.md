@@ -110,7 +110,7 @@ to make a lot of little projects and build components or functions in isolation.
 **Thoughts:** Very fun to make and learnt a little about overlaying images as a hover effect.
 
 
-**Link(s) to work:** [NFT-Card](https://github.com/bengera/nft-card)
+**Link(s) to work:** [NFT-Card](https://bengera.github.io/nft-card/)
 
 
 
