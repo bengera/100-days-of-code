@@ -112,6 +112,41 @@ to make a lot of little projects and build components or functions in isolation.
 
 **Link(s) to work:** [NFT-Card](https://bengera.github.io/nft-card/)
 
+### Day 07: December 27, 2021 
+
+**Today's Progress**: Learning about promises and Fetch-API.
+
+**Thoughts:** Jumped between a few different topics. Started learning about destructuring arrays again, went over promises and fetch API following some tutorials.
+Could not get API to work on my own. I will conintue learning about promises and APIs because I want to include an API project in my portfolio.
+
+```JavaScript
+  const inventory = {
+    sunglasses: 1990,
+    pants: 1088,
+    bags: 1344
+  };
+  
+  // Write your code below:
+  const myExecutor = (resolve, reject) => {
+    if (inventory.sunglasses > 0 ) {
+      resolve('Sunglasses order processed.')
+    } else {
+      reject('That item is sold out.')
+    }
+  }
+  
+  function orderSunglasses() {
+    return new Promise(myExecutor)
+  }
+  
+  const orderPromise = orderSunglasses()
+  
+  console.log(orderPromise);
+```
+
+**Link(s) to resources:**  [Public-APIs](https://github.com/public-apis/public-apis)
+
+
 
 
 
