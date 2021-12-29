@@ -146,6 +146,35 @@ Could not get API to work on my own. I will conintue learning about promises and
 
 **Link(s) to resources:**  [Public-APIs](https://github.com/public-apis/public-apis)
 
+### Day 08: December 29, 2021 
+
+**Today's Progress**: Created a small quote generator that displays random quotes as well as the author.
+
+**Thoughts:** This is not an API project, I have put the quotes into an object. So far it can generate random quotes using Mathrandom. I haven't
+figure out how to make it so the quotes don't repeat. That is something I will look into next.
+
+```JavaScript
+
+const quotes = [{
+    quote: "Be yourself; everyone else is already taken",
+    author: "Oscar Wilde"
+}
+  function generateQuote() {
+    const randomQuote = Math.floor(Math.random() * (quotes.length));
+    quoteDisplay.innerHTML = quotes[randomQuote].quote
+    authorDisplay.innerHTML = quotes[randomQuote].author
+           
+}
+
+button.addEventListener('click',() => {
+    console.log('Quote generated');
+    generateQuote();
+})
+
+```
+
+**Link(s) to work:**  [Random-Quote-Generator](https://github.com/bengera/mini-projects/tree/main/quoteGenerator)
+
 
 
 
