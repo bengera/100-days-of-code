@@ -176,6 +176,18 @@ button.addEventListener('click',() => {
 **Link(s) to work:**  [Random-Quote-Generator](https://github.com/bengera/mini-projects/tree/main/quoteGenerator)
 
 
+### Day 09: December 31, 2021 
+
+**Today's Progress**: Tried to find way to not have a quote in my quote generator repeat.
+
+**Thoughts:** I have been coding every day since the challenge. The days missed are days that I didn't code for myself. I suppose that would include today
+because I have just been going through Google and stackoverflow trying to find a method to prevent my quotes in my little JS project from repeating.
+There have been a lot of methods suggested online but I don't understand them fully. Even if I did I am not sure how to include them in to my project with
+the way I have coded it. I am writing in my log today because it is the last day of the year. 
+I think that next year I should try to work on several different things each day. 
+I need to make sure that I allocate time to learning and doing some practical coding. Getting stuck and hung up on one thing for too long can be demotivating.
+
+
 
 
 
