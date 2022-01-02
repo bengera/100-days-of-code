@@ -187,6 +187,13 @@ the way I have coded it. I am writing in my log today because it is the last day
 I think that next year I should try to work on several different things each day. 
 I need to make sure that I allocate time to learning and doing some practical coding. Getting stuck and hung up on one thing for too long can be demotivating.
 
+### Day 10: January 02, 2021 
+
+**Today's Progress**: Practiced with DOM manipulation.
+
+**Thoughts:** I am finding it useful to work on tutorials or course content, then using what I have learnt
+to make something new on my own. This method really helps me to remember things instead of just taking notes.
+
 
 
 
