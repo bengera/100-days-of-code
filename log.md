@@ -194,6 +194,33 @@ I need to make sure that I allocate time to learning and doing some practical co
 **Thoughts:** I am finding it useful to work on tutorials or course content, then using what I have learnt
 to make something new on my own. This method really helps me to remember things instead of just taking notes.
 
+### Day 11: January 04, 2021 
+
+**Today's Progress**: Found out how to use an event listener to add a new HTML element to the page.
+
+**Thoughts:** This is something I had coded without using a tutorial, but only going off stuff I have remembered and using MDM and stack overflow to add a simple button
+to the page using an event listener. It only took some minutes to write but was very satisfying. Most often I will do an overly complex tutorial and then get frustrated
+when I can't replicate something similar. Because I wrote this simple code snippet by myself, I understand how it works and what is going on. Slowly adding more elements for
+functionality will be a great way to learn.
+
+```JavaScript
+
+const container = document.querySelector('.container')
+const button = document.getElementById('button');
+
+button.addEventListener('click', () => {
+    console.log('button-clicked')
+   const newbtn = document.createElement('BUTTON')
+   newbtn.setAttribute("id", "new-button")
+    newbtn.innerHTML = "Created button"
+    container.appendChild(newbtn);
+})
+
+```
+
+
+
+
 
 
 
