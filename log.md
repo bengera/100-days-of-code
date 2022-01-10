@@ -218,11 +218,44 @@ button.addEventListener('click', () => {
 
 ```
 
+### Day 12: January 10, 2021 
+
+**Today's Progress**: Added more functionality to the JS file. Now a task will appear with a delete button that can remove the task.
+
+**Thoughts:** I have been playing around with the DOM a lot and figuring it out as I go. This has been very useful for seeing what does and doesn't work.
+I think that this method has been very helpful. Looking at code snippets online and then trying to implement it in a different way that will work with my file
+has been very useful too.
 
 
+```JavaScript
+const container = document.querySelector('.container')
+const button = document.getElementById('button');
+const inputField = document.getElementById('inputField')
+const taskContainer = document.querySelector('.tasks-container')
 
 
+button.addEventListener('click', () => {
+    
+    console.log('button-clicked')
 
+    const taskItem = document.createElement('div')
+    taskItem.setAttribute("id", "task")
+    const taskItemText = document.createElement('p')
+    taskItemText.setAttribute("id", "task-text")
+    taskItemText.innerText = inputField.value;
+    taskContainer.appendChild(taskItem);
+    taskItem.appendChild(taskItemText);
+    inputField.value = '';
 
+    const newbtn = document.createElement('BUTTON')
+        newbtn.setAttribute("id", "new-button")
+        newbtn.innerHTML = "Delete"
+        taskItem.appendChild(newbtn);
 
+        newbtn.addEventListener('click', () => {
+            console.log('deleted-item')
+            taskItem.remove();
+        })
 
+})
+```
